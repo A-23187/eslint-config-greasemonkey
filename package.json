@@ -1,0 +1,13 @@
+{
+  "name": "eslint-config-greasemonkey",
+  "version": "1.0.0",
+  "description": "wrap all Tampermonkey/Geasemonkey global variables",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [
+    "eslint",
+    "eslintconfig"
+  ],
+  "author": "A23187 <a23187.1979421048@gmail.com> (https://www.a23187.cn/)",
+  "license": "MIT"
+}
