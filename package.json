@@ -1,7 +1,7 @@
 {
   "name": "eslint-config-greasemonkey",
-  "version": "1.0.0",
-  "description": "wrap all Tampermonkey/Geasemonkey global variables",
+  "version": "1.0.1",
+  "description": "an eslint shared config sharing all additional variables provided by Geasemonkey/Tampermonkey/Violentmonkey",
   "main": "index.js",
   "scripts": {},
   "keywords": [
@@ -9,5 +9,13 @@
     "eslintconfig"
   ],
   "author": "A23187 <a23187.1979421048@gmail.com> (https://www.a23187.cn/)",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/A-23187/eslint-config-greasemonkey.git"
+  },
+  "bugs": {
+    "url": "https://github.com/A-23187/eslint-config-greasemonkey/issues"
+  },
+  "homepage": "https://github.com/A-23187/eslint-config-greasemonkey#readme"
 }
